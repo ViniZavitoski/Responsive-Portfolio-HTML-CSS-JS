@@ -1,3 +1,3 @@
 Project Deploy
 
-https://moonlit-llama-f58bea.netlify.app
+https://resilient-dasik-87e3d8.netlify.app
